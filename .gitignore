@@ -1,0 +1,9 @@
+# API keys
+config.py
+
+# A test python file
+strategies.py
+
+# Folders generated automatically from python
+.idea
+__pycache__
